@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Games/Games.iml" filepath="$PROJECT_DIR$/Games/Games.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/netology-iostream-file-serialization.iml" filepath="$PROJECT_DIR$/.idea/netology-iostream-file-serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/task1/task1.iml" filepath="$PROJECT_DIR$/task1/task1.iml" />
       <module fileurl="file://$PROJECT_DIR$/task2/task2.iml" filepath="$PROJECT_DIR$/task2/task2.iml" />
